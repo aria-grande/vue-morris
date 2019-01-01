@@ -71,6 +71,8 @@ const BarProps = {
   resize: Props.resize,
   ymax: Props.ymax,
   ymin: Props.ymin,
+  xLabelFormat: Props,xLabelFormat,
+  yLabelFormat: Props,yLabelFormat,
   gridTextColor: Props.gridTextColor,
   gridTextSize: Props.gridTextSize,
   gridTextFamily: Props.gridTextFamily,
