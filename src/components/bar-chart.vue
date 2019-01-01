@@ -46,6 +46,8 @@ export default {
       axes: Converter.toBoolean(this.axes),
       ymax: this.ymax,
       ymin: this.ymin,
+      xLabelFormat: this.xLabelFormat,
+      yLabelFormat: this.yLabelFormat,
       hideHover: this.hideHover,
       horizontal: Converter.toBoolean(this.horizontal),
       stacked: Converter.toBoolean(this.stacked),
